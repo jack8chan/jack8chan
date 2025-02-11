@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**jack8chan/jack8chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 欢迎来到我的GitHub主页！我是一名管理科学与工程专业的学生，热衷于机器学习和数据分析相关工作，并致力于通过代码和创新来解决问题。在这里，你可以找到我参与的各种项目和作品。
 
 ### 关于我
