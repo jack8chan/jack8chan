@@ -3,14 +3,18 @@
 <!--
 **jack8chan/jack8chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+欢迎来到我的GitHub主页！我是一名管理科学与工程专业的学生，热衷于机器学习和数据分析相关工作，并致力于通过代码和创新来解决问题。在这里，你可以找到我参与的各种项目和作品。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 关于我
+- 🌱 **我正在学习的技术**:机器学习,例如Python、人工智能等。
+- 🤔 **我需要帮助的地方**：目前我在[机器学习]上遇到了一些挑战，希望有经验的朋友能提供指导。
+- 💬 **问我关于**：[数据分析]，例如数据分析、机器学习等。
+- 📫 **如何联系我**：你可以通过在GitHub上直接给我留言。
+### 我的技能
+
+- **编程语言**：Python、R、C
+
+
+### 如何贡献
+
+如果你对我的项目感兴趣，或者想参与开源项目，欢迎随时向我提交Pull Request或Issue。我会尽力回复每一条反馈，让我们一起让这个世界变得更美好！
